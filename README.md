@@ -1,1 +1,1 @@
-# ES6_Typescript_Samples
+# ES6_Samples
